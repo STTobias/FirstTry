@@ -3,3 +3,7 @@
         .text {
             font-family:Berlin Sans FB Demi;padding:10px;
         }
+
+        #btn:hover {
+            color:brown;
+        }
